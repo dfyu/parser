@@ -1,0 +1,16 @@
+{
+    "name": "@dfyu/parser",
+    "version": "1.0.0",
+    "bin": {
+        "parser": "index.js"
+    },
+    "license": "MIT",
+    "bugs": {
+        "url": "https://github.com/RicholeYu/dfyu/parser/issues"
+    },
+    "homepage": "https://github.com/RicholeYu/dfyu/parser",
+    "dependencies": {
+        "arg": "^4.1.1",
+        "table": "^5.4.6"
+    }
+}
